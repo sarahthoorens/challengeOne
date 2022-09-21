@@ -1,5 +1,8 @@
 # challengeOne
 
+sarahthoorens.github.io/challengeOne<br />
+Deployment date: 9/20/22
+
 ## Description
 
 This is an HTML and CSS coding challenge to update existing code to improve accessibility and optimize SEO. The information provided for this challenge is as follows:
@@ -24,15 +27,17 @@ This is an HTML and CSS coding challenge to update existing code to improve acce
   THEN they fall in sequential order
   WHEN I view the title element
   THEN I find a concise, descriptive title
-  ```
+```
 
-## Usage
+## Purpose
 
-N/A
+Creating an accessible website using semantic HTML elements provides a comfortable user experience for all users. For users requiring an assistive reading device to read websites, an accessible site makes it simpler to navigate and ensures they will have access to and understanding of each element of the website. 
+
+Converting to a semantic website also improves SEO as it provides for more digestible content for search engines. 
 
 ## Credits
 
-N/A
+User story and acceptance critera provided by UT Coding Bootcamp curriculum.
 
 ## License
 
