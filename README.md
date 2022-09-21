@@ -5,14 +5,14 @@
 This is an HTML and CSS coding challenge update code to improve accessibility and optimize SEO. The information provided for this challenge is as follows:
 
   ## User Story
-
+```
   AS A marketing agency
   I WANT a codebase that follows accessibility standards
   SO THAT our own site is optimized for search engines
-
+```
 
   ## Acceptance Criteria
-
+```
   GIVEN a webpage meets accessibility standards
   WHEN I view the source code
   THEN I find semantic HTML elements
@@ -24,7 +24,7 @@ This is an HTML and CSS coding challenge update code to improve accessibility an
   THEN they fall in sequential order
   WHEN I view the title element
   THEN I find a concise, descriptive title
-  
+  ```
 
 ## Usage
 
