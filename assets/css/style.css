@@ -83,13 +83,13 @@ main figure {
     color: #ffffff;
 }
 
-main figure img {
-    max-height: 200px;
-}
-
 main figure h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+main figure img {
+    max-height: 200px;
 }
 
 aside {
