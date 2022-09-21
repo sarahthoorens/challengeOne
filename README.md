@@ -1,6 +1,6 @@
 # challengeOne
 
-sarahthoorens.github.io/challengeOne
+sarahthoorens.github.io/challengeOne<br />
 Deployment date: 9/20/22
 
 ## Description
@@ -33,7 +33,7 @@ This is an HTML and CSS coding challenge to update existing code to improve acce
 
 Creating an accessible website using semantic HTML elements provides a comfortable user experience for all users. For users requiring an assistive reading device to read websites, an accessible site makes it simpler to navigate and ensures they will have access to and understanding of each element of the website. 
 
-Converting to a semantic website also improves SEO as it provides for a more digestible content for search engines. 
+Converting to a semantic website also improves SEO as it provides for more digestible content for search engines. 
 
 ## Credits
 
