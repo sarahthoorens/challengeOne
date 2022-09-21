@@ -2,7 +2,7 @@
 
 ## Description
 
-This is an HTML and CSS coding challenge update code to improve accessibility and optimize SEO. The information provided for this challenge is as follows:
+This is an HTML and CSS coding challenge to update existing code to improve accessibility and optimize SEO. The information provided for this challenge is as follows:
 
   ## User Story
 ```
