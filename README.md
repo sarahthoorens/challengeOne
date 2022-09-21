@@ -4,7 +4,7 @@
 
 This is an HTML and CSS coding challenge to update existing code to improve accessibility and optimize SEO. The information provided for this challenge is as follows:
 
-  ## User Story
+```  ## User Story
 ```
   AS A marketing agency
   I WANT a codebase that follows accessibility standards
@@ -24,7 +24,8 @@ This is an HTML and CSS coding challenge to update existing code to improve acce
   THEN they fall in sequential order
   WHEN I view the title element
   THEN I find a concise, descriptive title
-  ```
+```
+```
 
 ## Usage
 
